@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "WATagBrush",
+	"category" : "Bootstrap5-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contextStyle",
+		"modifier"
+	],
+	"name" : "SBSGenericTag",
+	"type" : "normal"
+}

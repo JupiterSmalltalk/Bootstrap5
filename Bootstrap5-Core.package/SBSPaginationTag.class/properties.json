@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SBSUnorderedListTag",
+	"category" : "Bootstrap5-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sizeStyle"
+	],
+	"name" : "SBSPaginationTag",
+	"type" : "normal"
+}

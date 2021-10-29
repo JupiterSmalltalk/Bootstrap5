@@ -1,0 +1,4 @@
+styling
+style 
+
+	^currentExample style

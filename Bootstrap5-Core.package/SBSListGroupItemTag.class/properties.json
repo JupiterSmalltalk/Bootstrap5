@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "SBSListItemTag",
+	"category" : "Bootstrap5-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contextStyle",
+		"modifier"
+	],
+	"name" : "SBSListGroupItemTag",
+	"type" : "normal"
+}
