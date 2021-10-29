@@ -1,0 +1,16 @@
+{
+	"category" : "Bootstrap5-Core-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contextStyle",
+		"modifier",
+		"navigationBarTag" ],
+	"name" : "SBSNavbarBackground",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

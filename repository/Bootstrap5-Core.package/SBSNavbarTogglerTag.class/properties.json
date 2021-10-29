@@ -1,0 +1,14 @@
+{
+	"category" : "Bootstrap5-Core-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBSNavbarTogglerTag",
+	"pools" : [
+		 ],
+	"super" : "SBSButtonTag",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Bootstrap5-Core-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBSTabPaneTag",
+	"pools" : [
+		 ],
+	"super" : "SBSGenericTag",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Bootstrap5-Core-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sizeStyle" ],
+	"name" : "SBSTabContentTag",
+	"pools" : [
+		 ],
+	"super" : "SBSGenericTag",
+	"type" : "normal" }

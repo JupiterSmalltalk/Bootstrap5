@@ -1,0 +1,14 @@
+{
+	"category" : "Bootstrap5-Core-Canvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBSHtmlCanvas",
+	"pools" : [
+		 ],
+	"super" : "WAHtmlCanvas",
+	"type" : "normal" }

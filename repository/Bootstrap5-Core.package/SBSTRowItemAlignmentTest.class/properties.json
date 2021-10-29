@@ -1,0 +1,14 @@
+{
+	"category" : "Bootstrap5-Core-Tests-Traits",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBSTRowItemAlignmentTest",
+	"pools" : [
+		 ],
+	"super" : "SBSAbstractCanvasBrushTest",
+	"type" : "normal" }

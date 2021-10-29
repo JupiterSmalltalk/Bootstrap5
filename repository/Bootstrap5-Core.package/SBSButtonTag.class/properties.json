@@ -1,0 +1,16 @@
+{
+	"category" : "Bootstrap5-Core-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sizeStyle",
+		"contextStyle",
+		"modifier" ],
+	"name" : "SBSButtonTag",
+	"pools" : [
+		 ],
+	"super" : "WAButtonTag",
+	"type" : "normal" }

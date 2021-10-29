@@ -1,0 +1,15 @@
+{
+	"category" : "Bootstrap5-Core-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contextStyle",
+		"modifier" ],
+	"name" : "SBSListGroupLinkedItemTag",
+	"pools" : [
+		 ],
+	"super" : "SBSAnchorTag",
+	"type" : "normal" }
