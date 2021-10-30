@@ -1,4 +1,4 @@
 accessing
 exampleName
 
-	^self subclassResponsibility 
+	^self subclassResponsibility

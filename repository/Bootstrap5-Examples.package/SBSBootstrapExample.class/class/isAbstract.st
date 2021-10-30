@@ -1,4 +1,4 @@
 testing
 isAbstract
 
-	^self name = #SBSBootstrapExample 
+	^self name = #SBSBootstrapExample

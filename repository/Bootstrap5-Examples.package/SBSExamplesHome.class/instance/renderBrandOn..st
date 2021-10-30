@@ -8,5 +8,3 @@ renderBrandOn: html
 				url: SBSExamplesLibrary / #logosmallPng.
 			 
  ].
-	
-	 

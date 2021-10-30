@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "SBSBootstrapExample",
 	"category" : "Bootstrap5-Examples-Examples",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "SBSTableExample",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "SBSBootstrapExample",
+	"type" : "normal" }

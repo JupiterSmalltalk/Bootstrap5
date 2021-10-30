@@ -1,4 +1,4 @@
 utilities
 openBrowser
 	<script>
-	WebBrowser openOn: 'http://localhost:8080/', self contextRoot 
+	WebBrowser openOn: 'http://localhost:8080/', self contextRoot

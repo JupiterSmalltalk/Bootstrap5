@@ -16,4 +16,3 @@ renderExampleOn: html
 			whiteText 
 			darkBackground 
 			with: 'White'.
-	 		

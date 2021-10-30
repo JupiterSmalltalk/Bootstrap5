@@ -4,4 +4,4 @@ register
 	|app|
 	app := super register.
 	app 
-		addLibrary: SBSExamplesLibrary 
+		addLibrary: SBSExamplesLibrary

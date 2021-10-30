@@ -1,4 +1,4 @@
 rendering
 rendererClass
 	
-	^ SBSHtmlCanvas 
+	^ SBSHtmlCanvas

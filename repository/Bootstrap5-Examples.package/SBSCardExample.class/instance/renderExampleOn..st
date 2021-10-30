@@ -12,4 +12,4 @@ renderExampleOn: html
 				mutedText;
 				with: 'Subtitle'.
 			html cardText: 'Some quick example text to build on the card title and make up the bulk of the card''s content.'.
-			html formButton bePrimary with: 'Go somewhere' ]] 
+			html formButton bePrimary with: 'Go somewhere' ]]

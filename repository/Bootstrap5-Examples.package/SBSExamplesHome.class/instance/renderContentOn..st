@@ -5,4 +5,3 @@ renderContentOn: html
 	self isDisplayingIntro 
 			ifTrue: [ self renderIntroOn: html ]
 			ifFalse: [ browser renderOn: html ]
-	 

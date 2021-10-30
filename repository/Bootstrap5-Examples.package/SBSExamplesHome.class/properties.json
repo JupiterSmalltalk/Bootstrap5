@@ -1,14 +1,15 @@
 {
-	"commentStamp" : "",
-	"super" : "SBSRootComponent",
 	"category" : "Bootstrap5-Examples-Home",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
 		"browser",
-		"displayIntro"
-	],
+		"displayIntro" ],
 	"name" : "SBSExamplesHome",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "SBSRootComponent",
+	"type" : "normal" }

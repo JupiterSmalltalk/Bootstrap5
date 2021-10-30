@@ -32,4 +32,3 @@ renderExampleOn: html
 		html div 
 			heading: x;
 			with: [ html text: 'Heading ', x greaseString. html space. html small textMuted with: 'Secondary text' ]]
-			

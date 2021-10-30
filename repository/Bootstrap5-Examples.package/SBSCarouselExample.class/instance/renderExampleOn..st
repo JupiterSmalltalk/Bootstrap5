@@ -13,4 +13,4 @@ renderExampleOn: html
 		].		
 		html carouselControlPreviousFor: 'example'.	
 		html carouselControlNextFor: 'example'. 	
-	] 
+	]

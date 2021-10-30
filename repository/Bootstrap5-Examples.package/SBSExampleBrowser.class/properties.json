@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "WAComponent",
 	"category" : "Bootstrap5-Examples-Browser",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"currentExample"
-	],
+		"currentExample" ],
 	"name" : "SBSExampleBrowser",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

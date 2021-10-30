@@ -1,4 +1,4 @@
 rendering
 renderExampleOn: html
 
-	self subclassResponsibility 
+	self subclassResponsibility

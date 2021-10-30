@@ -17,5 +17,3 @@ renderExampleOn: html
 	html inputGroup marginBottom: 3; with: [ 
 		html inputGroupPrepend: [ html inputGroupText: 'With textarea' ].
 		html textArea formControl ].
-	
-	

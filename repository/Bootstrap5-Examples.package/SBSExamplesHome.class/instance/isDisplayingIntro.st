@@ -1,4 +1,4 @@
 testing
 isDisplayingIntro
 
-	^displayIntro  
+	^displayIntro

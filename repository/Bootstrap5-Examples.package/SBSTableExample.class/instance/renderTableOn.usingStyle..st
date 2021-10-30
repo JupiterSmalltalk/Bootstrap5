@@ -18,4 +18,3 @@ renderTableOn: html usingStyle: aStyle
 					html tableData: '4'.	
 					html tableData: '5'.
 					html tableData: '6']]].
-	 

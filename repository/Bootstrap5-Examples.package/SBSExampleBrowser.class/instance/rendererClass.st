@@ -1,4 +1,4 @@
 accessing
 rendererClass
 		
-	^ SBSHtmlCanvas 
+	^ SBSHtmlCanvas
