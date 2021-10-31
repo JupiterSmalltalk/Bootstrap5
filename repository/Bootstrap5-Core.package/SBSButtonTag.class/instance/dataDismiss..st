@@ -1,4 +1,3 @@
 options
 dataDismiss: aString
-
-	self attributeAt: 'data-dismiss' put: aString
+  self attributeAt: 'data-bs-dismiss' put: aString
