@@ -2,12 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testDangerBackground" : " 10/28/2021 18:01:14",
-		"testDarkBackground" : " 10/28/2021 18:01:14",
-		"testInfoBackground" : " 10/28/2021 18:01:14",
-		"testLightBackground" : " 10/28/2021 18:01:14",
-		"testPrimaryBackground" : " 10/28/2021 18:01:14",
-		"testSecondaryBackground" : " 10/28/2021 18:01:14",
-		"testSuccessBackground" : " 10/28/2021 18:01:14",
-		"testWarningBackground" : " 10/28/2021 18:01:14",
-		"testWhiteBackground" : " 10/28/2021 18:01:14" } }
+		"testDangerBackground" : "10/28/2021 18:01:14",
+		"testDarkBackground" : "10/28/2021 18:01:14",
+		"testInfoBackground" : "10/28/2021 18:01:14",
+		"testLightBackground" : "10/28/2021 18:01:14",
+		"testPrimaryBackground" : "10/28/2021 18:01:14",
+		"testSecondaryBackground" : "10/28/2021 18:01:14",
+		"testSuccessBackground" : "10/28/2021 18:01:14",
+		"testWarningBackground" : "10/28/2021 18:01:14",
+		"testWhiteBackground" : "10/28/2021 18:01:14" } }

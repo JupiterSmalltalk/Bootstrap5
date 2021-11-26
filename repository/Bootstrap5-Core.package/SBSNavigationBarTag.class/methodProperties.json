@@ -2,12 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"background" : " 10/28/2021 18:01:06",
-		"beDark" : " 10/28/2021 18:01:06",
-		"beLight" : " 10/28/2021 18:01:06",
-		"defaultStyleClass" : " 10/28/2021 18:01:06",
-		"expandExtraLarge" : " 10/28/2021 18:01:06",
-		"expandLarge" : " 10/28/2021 18:01:06",
-		"expandMiddle" : " 10/28/2021 18:01:06",
-		"expandSmall" : " 10/28/2021 18:01:06",
-		"initialize" : " 10/28/2021 18:01:06" } }
+		"background" : "10/28/2021 18:01:06",
+		"beDark" : "10/28/2021 18:01:06",
+		"beLight" : "10/28/2021 18:01:06",
+		"defaultStyleClass" : "10/28/2021 18:01:06",
+		"expandExtraLarge" : "10/28/2021 18:01:06",
+		"expandLarge" : "10/28/2021 18:01:06",
+		"expandMiddle" : "10/28/2021 18:01:06",
+		"expandSmall" : "10/28/2021 18:01:06",
+		"initialize" : "10/28/2021 18:01:06" } }
