@@ -1,4 +1,5 @@
 accessing
 selectorsToInclude
+  "Autoload selectors"
 
-	^#(cssbootstrapCss)
+  ^ #(#'cssbootstrapCss' #'jsbootstrapbundleJs')
